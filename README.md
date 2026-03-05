@@ -1,13 +1,23 @@
+<div align="center">
 
-# Saumya Bhardwaj
+# Hi, I'm Saumya Bhardwaj 👋
 
-Full-stack developer (MERN) and B.Tech CSE (AI & ML) undergraduate based in New Delhi, India. I enjoy building scalable web apps, clean APIs, and practical projects that improve user experience.
+Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 
-## Connect
+<img src="assets/developer.svg" alt="Developer at desk" width="520" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/Saumya-bhardwaj04)
+</div>
+
+## Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumya-bhardwaj04)
+[![Email](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samisharma000@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saumya-bhardwaj04.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saumya-bhardwaj04)
+
+</div>
 
 ## Profile Overview
 
@@ -48,8 +58,8 @@ Full-stack developer (MERN) and B.Tech CSE (AI & ML) undergraduate based in New 
 
 ## Featured Projects
 
-- **Blog Web Application** — MERN blogging platform with authentication, posts, likes, comments, and a smoother authoring experience.
-- **E-commerce Website (Pocket Cart)** — React-based e-commerce UI with product listings, filtering, cart, and order workflow.
+- **Blog Web Application** — MERN blogging platform with authentication, posts, likes, comments, and a smoother authoring experience. *(Demo link: add here)*
+- **E-commerce Website (Pocket Cart)** — React-based e-commerce UI with product listings, filtering, cart, and order workflow. *(Demo link: add here)*
 
 ## Experience
 
@@ -57,6 +67,16 @@ Full-stack developer (MERN) and B.Tech CSE (AI & ML) undergraduate based in New 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saumya-bhardwaj04&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya-bhardwaj04&layout=compact&hide_border=true)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Saumya-bhardwaj04&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya-bhardwaj04&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Saumya-bhardwaj04&hide_border=true&theme=transparent" alt="GitHub streak" height="165" />
+
+</div>
 
