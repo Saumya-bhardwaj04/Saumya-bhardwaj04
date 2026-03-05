@@ -58,8 +58,8 @@ Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 
 ## Featured Projects
 
-- **Blog Web Application** — MERN blogging platform with authentication, posts, likes, comments, and a smoother authoring experience. *(Demo link: add here)*
-- **E-commerce Website (Pocket Cart)** — React-based e-commerce UI with product listings, filtering, cart, and order workflow. *(Demo link: add here)*
+- **Blog Web Application** — MERN blogging platform with authentication, posts, likes, comments, and a smoother authoring experience. *(Demo link: https://meloque.me/)*
+- **E-commerce Website (Pocket Cart)** — React-based e-commerce UI with product listings, filtering, cart, and order workflow. *(Demo link: https://e-commerce-project-nu-indol.vercel.app/)*
 
 ## Experience
 
