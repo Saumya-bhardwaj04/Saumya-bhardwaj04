@@ -58,8 +58,8 @@ Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 
 ## Featured Projects
 
-- **Blog Web Application** — MERN blogging platform with authentication, posts, likes, comments, and a smoother authoring experience. *(Demo link: https://meloque.me/)*
-- **E-commerce Website (Pocket Cart)** — React-based e-commerce UI with product listings, filtering, cart, and order workflow. *(Demo link: https://e-commerce-project-nu-indol.vercel.app/)*
+- **Blog Web Application** — MERN blogging platform with authentication, posts, likes, comments, and a smoother authoring experience. [Demo](https://meloque.me/)
+- **E-commerce Website (Pocket Cart)** — React-based e-commerce UI with product listings, filtering, cart, and order workflow. [Demo](https://e-commerce-project-nu-indol.vercel.app/)
 
 ## Experience
 
@@ -69,14 +69,14 @@ Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saumya-bhardwaj04&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saumya-bhardwaj04&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saumya-bhardwaj04&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0d1117&title_color=e6edf3&text_color=e6edf3&icon_color=58a6ff" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saumya-bhardwaj04&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=e6edf3&text_color=e6edf3" alt="Top languages" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Saumya-bhardwaj04&hide_border=true&theme=transparent" alt="GitHub streak" height="165" />
+<img src="https://streak-stats.demolab.com?user=Saumya-bhardwaj04&hide_border=true&theme=github-dark-blue&background=0D1117&stroke=0D1117&ring=58A6FF&fire=F97316&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=9CA3AF" alt="GitHub streak" height="165" />
 
 </div>
 
