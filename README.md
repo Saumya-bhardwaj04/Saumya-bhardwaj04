@@ -8,7 +8,6 @@ Full-stack developer (MERN) and B.Tech CSE (AI & ML) undergraduate based in New 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/Saumya-bhardwaj04)
-[![Resume](https://img.shields.io/badge/Resume-View-orange?logo=readme&logoColor=white)](./RESUME.md)
 
 ## Profile Overview
 
