@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Saumya Bhardwaj 👋
+# Hi, I'm Saumya Bhardwaj ðŸ‘‹
 
-Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
+Full-stack developer (MERN) â€¢ B.Tech CSE (AI & ML) â€¢ New Delhi, India
 
 <img src="assets/developer.svg" alt="Developer at desk" width="520" />
 
@@ -58,12 +58,12 @@ Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 
 ## Featured Projects
 
-- **Blog Web Application** — MERN blogging platform with authentication, posts, likes, comments, and a smoother authoring experience. [Demo](https://meloque.me/)
-- **E-commerce Website (Pocket Cart)** — React-based e-commerce UI with product listings, filtering, cart, and order workflow. [Demo](https://e-commerce-project-nu-indol.vercel.app/)
+- **DPI Control Plane** - Real-time network packet inspection platform with a React dashboard, Node.js services, and a Python traffic analysis engine. [Demo](https://app.deepinspect.tech/)
+- **Meloque** - AI-powered content publishing platform with GenAI-assisted blog creation, real-time engagement, and a rich authoring workflow. [Demo](https://meloque.me/)
 
 ## Experience
 
-- **PHP Developer Intern** — built and maintained responsive web applications, implemented server-side logic, and improved performance and UX.
+- **Full Stack Web Developer Intern, APK WEBTECH** - developed and maintained responsive web applications using PHP, MySQL, HTML, CSS, and JavaScript, improved backend efficiency and session handling, and boosted website performance with code minification and image optimization.
 
 ## GitHub Stats
 
@@ -79,4 +79,3 @@ Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 <img src="https://streak-stats.demolab.com?user=Saumya-bhardwaj04&hide_border=true&theme=github-dark-blue&background=0D1117&stroke=0D1117&ring=58A6FF&fire=F97316&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=9CA3AF" alt="GitHub streak" height="165" />
 
 </div>
-
