@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Saumya Bhardwaj ðŸ‘‹
+# Hi, I'm Saumya Bhardwaj 👋
 
-Full-stack developer (MERN) â€¢ B.Tech CSE (AI & ML) â€¢ New Delhi, India
+Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 
 <img src="assets/developer.svg" alt="Developer at desk" width="520" />
 
