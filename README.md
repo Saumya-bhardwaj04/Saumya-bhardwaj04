@@ -76,6 +76,6 @@ Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 
 <div align="center">
 
-<img src="assets/github-streak.svg" alt="GitHub streak" height="165" />
+<img src="https://streak-stats.demolab.com?user=Saumya-bhardwaj04&hide_border=true&theme=github-dark-blue&background=0D1117&stroke=0D1117&ring=58A6FF&fire=F97316&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=9CA3AF" alt="GitHub streak" height="165" />
 
 </div>
