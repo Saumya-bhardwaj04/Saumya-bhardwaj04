@@ -69,7 +69,12 @@ Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saumya-bhardwaj04&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0d1117&title_color=e6edf3&text_color=e6edf3&icon_color=58a6ff" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saumya-bhardwaj04&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0d1117&title_color=e6edf3&text_color=e6edf3&icon_color=58a6ff&hide=issues,contribs" alt="GitHub stats" height="165" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saumya-bhardwaj04&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=e6edf3&text_color=e6edf3" alt="Top languages" height="165" />
 
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Saumya-bhardwaj04&theme=github_dark&hide_border=true&background=0d1117&title_color=e6edf3&text_color=e6edf3&ring_color=58a6ff&fire_color=ff7b72" alt="Streak stats" height="165" />
+
 </div>
+
