@@ -8,7 +8,7 @@ Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 
 </div>
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -19,13 +19,13 @@ Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 
 </div>
 
-## Profile Overview
+## 👤 Profile Overview
 
 - Currently focused on: MERN full-stack development, REST APIs, authentication, performance, and practical AI-assisted features
 - Learning: advanced DSA, system design fundamentals, and cloud deployment workflows
 - Open to: internships and entry-level roles in Full Stack / Backend / AI-assisted product development
 
-## Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 **Frontend**
 
@@ -56,12 +56,12 @@ Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## Featured Projects
+## 🚀 Featured Projects
 
 - **DPI Control Plane** - Real-time network packet inspection platform with a React dashboard, Node.js services, and a Python traffic analysis engine. [Demo](https://app.deepinspect.tech/)
 - **Meloque** - AI-powered content publishing platform with GenAI-assisted blog creation, real-time engagement, and a rich authoring workflow. [Demo](https://meloque.me/)
 
-## Experience
+## 💼 Experience
 
 - **Full Stack Web Developer Intern, APK WEBTECH** - developed and maintained responsive web applications using PHP, MySQL, HTML, CSS, and JavaScript, improved backend efficiency and session handling, and boosted website performance with code minification and image optimization.
 
@@ -69,12 +69,12 @@ Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saumya-bhardwaj04&show_icons=true&rank_icon=github&theme=github_dark&bg_color=0d1117&title_color=e6edf3&text_color=e6edf3&icon_color=58a6ff&hide=issues,contribs" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saumya-bhardwaj04&layout=compact&theme=github_dark&bg_color=0d1117&title_color=e6edf3&text_color=e6edf3" alt="Top languages" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saumya-bhardwaj04&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0d1117&title_color=e6edf3&text_color=e6edf3&icon_color=58a6ff&hide=issues,contribs" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saumya-bhardwaj04&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=e6edf3&text_color=e6edf3" alt="Top languages" height="165" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Saumya-bhardwaj04&theme=github_dark&background=0d1117&title_color=e6edf3&text_color=e6edf3&ring_color=58a6ff&fire_color=ff7b72" alt="Streak stats" height="165" />
+<img src="https://streak-stats.demolab.com?user=Saumya-bhardwaj04&theme=github_dark&hide_border=true&background=0d1117&title_color=e6edf3&text_color=e6edf3&ring_color=58a6ff&fire_color=ff7b72" alt="Streak stats" height="165" />
 
 </div>
 
