@@ -4,7 +4,7 @@
 
 Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 
-<img src="assets/developer.svg" alt="Developer at desk" width="520" />
+<img src="assets/profile_terminal.svg" alt="Profile Terminal" width="850" />
 
 </div>
 
