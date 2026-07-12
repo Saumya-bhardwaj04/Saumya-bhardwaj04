@@ -4,7 +4,12 @@
 
 Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 
-<img src="assets/profile_terminal.svg" alt="Profile Terminal" width="850" />
+<a href="https://github.com/Saumya-bhardwaj04">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dark_mode.svg">
+    <img alt="Saumya Bhardwaj's GitHub Profile" src="assets/dark_mode.svg">
+  </picture>
+</a>
 
 </div>
 
@@ -69,7 +74,7 @@ Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saumya-bhardwaj04&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0d1117&title_color=e6edf3&text_color=e6edf3&icon_color=58a6ff&hide=prs,issues,contribs&include_all_commits=true&count_private=true" alt="GitHub stats" height="150" />
+<img src="./assets/github_stats.svg" alt="GitHub stats" height="150" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saumya-bhardwaj04&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=e6edf3&text_color=e6edf3" alt="Top languages" height="150" />
 
 <br/>
