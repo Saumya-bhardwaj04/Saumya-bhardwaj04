@@ -29,7 +29,7 @@ jobs:
 
       - name: Update README stats SVG
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USER_NAME: Saumya-bhardwaj04
         run: python today.py
 
