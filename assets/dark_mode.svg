@@ -17,36 +17,36 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="1100px" height="545px" fill="#161b22" rx="15"/>
 
-<!-- LEFT COLUMN: Face-only ASCII art (spaces = background, chars = face outline) -->
+<!-- LEFT COLUMN: Borderless face ASCII art -->
 <text x="12" y="30" fill="#c9d1d9">
-<tspan x="12" y="30">                                               </tspan>
-<tspan x="12" y="48">         g@M%@%%@N%Nw,,                        </tspan>
-<tspan x="12" y="66">      ,M*|.||*%gNM=]mM%g||%N,                  </tspan>
-<tspan x="12" y="84">     p!..  .! |... ...|||jhlj%w                </tspan>
-<tspan x="12" y="102">    /j`` `1 |'''' '''||||j%%%%@,               </tspan>
-<tspan x="12" y="120">   ,g{||  `.  `''''''''|||j%%@@@@g             </tspan>
-<tspan x="12" y="138">   j{  |@@@@@@@@@@@@@@@@@@@@@@@@@@@@|          </tspan>
-<tspan x="12" y="156">   j{  |@@@@p   ,wp@pw,         @@@@|          </tspan>
-<tspan x="12" y="174">   /j{|  `.  `pp.               @p.`           </tspan>
-<tspan x="12" y="192">   j irr@@@@@@l@@@@@@@@@@p.                    </tspan>
-<tspan x="12" y="210">   j |@@@@HHj ]@@@@@@@@@@H}                    </tspan>
-<tspan x="12" y="228">   j M@@@@k%@@@@@@@@@@@@@k@@@,                 </tspan>
-<tspan x="12" y="246">   jrr^^ ` jkk`  nrn~|i   `` L``             </tspan>
-<tspan x="12" y="264">   j lp;., /@@   `****M,p ;,                  </tspan>
-<tspan x="12" y="282">  i r @@@mmM @@@@ `****M,p ;,                 </tspan>
-<tspan x="12" y="300">  | ]@@@HHj]g@@@@@h'*||mkr  *                 </tspan>
-<tspan x="12" y="318">    j%M  `  |jkk`  nrn~|i                     </tspan>
-<tspan x="12" y="336">    jrr^^   @@@@@ `  nrn~                      </tspan>
-<tspan x="12" y="354">    j lp;.,  /@@  ```   L``                    </tspan>
-<tspan x="12" y="372">  i rr@@@@mmM @@@  `****M,p ;,                </tspan>
-<tspan x="12" y="390">  | ]@@@@HHj]@@h'*||mkr  *  jk                </tspan>
-<tspan x="12" y="408">   jM  |jkk`  nrn~|i   `L``:j                </tspan>
-<tspan x="12" y="426">  ` ^[`  .%H@@@@%@gkill]jjj%kk%`              </tspan>
-<tspan x="12" y="444">  -=[`` .%H@@@@@@@@kill]jjj%%kk`,             </tspan>
-<tspan x="12" y="462">     `^[`%@@@@@@@@@@@@@@@@@@k%;               </tspan>
-<tspan x="12" y="480">       `  %H@@@@@@@@@@@@@@@ `;                </tspan>
-<tspan x="12" y="498">               `%@@@@@@@@`                    </tspan>
-<tspan x="12" y="516">                   ````                        </tspan>
+<tspan x="12" y="30">                                 </tspan>
+<tspan x="12" y="48">                                 </tspan>
+<tspan x="12" y="66">           =:;,,,,:-==o          </tspan>
+<tspan x="12" y="84">        -              ,=        </tspan>
+<tspan x="12" y="102">      =  ..............          </tspan>
+<tspan x="12" y="120">    =  ..       ....   ... o     </tspan>
+<tspan x="12" y="138">   = .. ........     ..  ...     </tspan>
+<tspan x="12" y="156">   ,.. .        ,,,,     . ,     </tspan>
+<tspan x="12" y="174">   = .  ,-~--=oB###M&amp;*: .. ~     </tspan>
+<tspan x="12" y="192">    ~..-BMM#@@@@@@@@%M8= .       </tspan>
+<tspan x="12" y="210">      ;W%%@@@@@@@@@@@#WB~..      </tspan>
+<tspan x="12" y="228">     ;:WBW#%@@@@@@W8o~-oB-       </tspan>
+<tspan x="12" y="246">     ++X:====B@@#=:-=++oB=:      </tspan>
+<tspan x="12" y="264">      +WX++-~=M@8~o+=~=MM*~      </tspan>
+<tspan x="12" y="282">         *8X8&amp;W@W8WMMMM#Mo~M     </tspan>
+<tspan x="12" y="300">      8W%@%@@##@#W@@@@@%B==M     </tspan>
+<tspan x="12" y="318">             M%@@BB%@@@#X:+      </tspan>
+<tspan x="12" y="336">       *W@@@#B*&amp;o:~o=8#Bo:M      </tspan>
+<tspan x="12" y="354">        *W%&amp;;:;;~-:;:=#B~~       </tspan>
+<tspan x="12" y="372">        o+#B&amp;8&amp;BMM&amp;BMM#X.M       </tspan>
+<tspan x="12" y="390">         ++M##%W~=M%WB*,.o       </tspan>
+<tspan x="12" y="408">        =; :o%%%BW##W-..~ -o     </tspan>
+<tspan x="12" y="426">     o,   ..,=XW%#8*; .~+,   ;+8 </tspan>
+<tspan x="12" y="444">  +:.  ....,~:..;;.  ;+o=....   ,</tspan>
+<tspan x="12" y="462">,    ..   . .+=---~~=+X*: .  ... </tspan>
+<tspan x="12" y="480">                                 </tspan>
+<tspan x="12" y="498">                                 </tspan>
+<tspan x="12" y="516">                                 </tspan>
 </text>
 
 <!-- RIGHT COLUMN at x=490. SVG=1100px, available=600px, ~63 chars max per line -->
