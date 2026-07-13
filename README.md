@@ -74,7 +74,7 @@ Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saumya-bhardwaj04&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs" alt="GitHub stats" height="165" />
+<img src="./assets/github_stats.svg" alt="GitHub stats" height="165" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saumya-bhardwaj04&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=e6edf3&text_color=e6edf3" alt="Top languages" height="165" />
 
 <br/><br/>
