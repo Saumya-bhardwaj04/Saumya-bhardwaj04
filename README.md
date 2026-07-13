@@ -79,6 +79,10 @@ Full-stack developer (MERN) • B.Tech CSE (AI & ML) • New Delhi, India
 
 <br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-bhardwaj04&theme=github-compact&hide_border=true&bg_color=0d1117&color=e6edf3&line=58a6ff&point=ff7b72" alt="Activity graph" />
+
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=Saumya-bhardwaj04&theme=github_dark&hide_border=true&background=0d1117&title_color=e6edf3&text_color=e6edf3&ring_color=58a6ff&fire_color=ff7b72" alt="Streak stats" height="165" />
 
 </div>
