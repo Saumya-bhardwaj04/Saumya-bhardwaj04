@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="545px" font-size="14.5px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1100px" height="545px" font-size="14.5px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,9 +15,9 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="545px" fill="#161b22" rx="15"/>
+<rect width="1100px" height="545px" fill="#161b22" rx="15"/>
 
-<!-- LEFT COLUMN: Face-only ASCII (spaces = background) -->
+<!-- LEFT COLUMN: Face-only ASCII art (spaces = background, chars = face outline) -->
 <text x="12" y="30" fill="#c9d1d9">
 <tspan x="12" y="30">                                               </tspan>
 <tspan x="12" y="48">         g@M%@%%@N%Nw,,                        </tspan>
@@ -49,32 +49,30 @@ text, tspan {white-space: pre;}
 <tspan x="12" y="516">                   ````                        </tspan>
 </text>
 
-<!-- RIGHT COLUMN at x=492; budget=50 chars per line at 9.5px = 475px, fits in 493px -->
-<!-- Line format: ". KEY: DOTS VALUE"  where KEY+": "+DOTS+VALUE <= 48 chars -->
-<!-- ". OS: ................................ Windows 11"  =2+2+2+32+10=48 ✓ -->
-<text x="492" y="30" fill="#c9d1d9">
-<tspan x="492" y="30">saumya@bhardwaj ——————————————————————————————</tspan>
-<tspan x="492" y="48" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: .............................. </tspan><tspan class="value">Windows 11</tspan>
-<tspan x="492" y="66" class="cc">. </tspan><tspan class="key">Location</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">New Delhi, India</tspan>
-<tspan x="492" y="84" class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc">: ..................... </tspan><tspan class="value">B.Tech CSE (AI+ML) 2026</tspan>
-<tspan x="492" y="102" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">Full-Stack Dev (MERN)</tspan>
-<tspan x="492" y="120" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">: ............................ </tspan><tspan class="value">VS Code, Postman</tspan>
-<tspan x="492" y="138" class="cc">. </tspan>
-<tspan x="492" y="156" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Programming</tspan><tspan class="cc">: ....... </tspan><tspan class="value">JS, TS, Python, Java</tspan>
-<tspan x="492" y="174" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Database</tspan><tspan class="cc">: ........... </tspan><tspan class="value">MongoDB, MySQL, Firebase</tspan>
-<tspan x="492" y="192" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Markup</tspan><tspan class="cc">: ............. </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
-<tspan x="492" y="210" class="cc">. </tspan>
-<tspan x="492" y="228" class="cc">. </tspan><tspan class="key">Hobbies</tspan><tspan class="cc">.</tspan><tspan class="key">Software</tspan><tspan class="cc">: ........... </tspan><tspan class="value">GenAI, Open Source, UI/UX</tspan>
-<tspan x="492" y="246" class="cc">. </tspan>
-<tspan x="492" y="264">- Contact ——————————————————————————————————</tspan>
-<tspan x="492" y="282" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc">.</tspan><tspan class="key">Personal</tspan><tspan class="cc">: ................ </tspan><tspan class="value">samisharma000@gmail.com</tspan>
-<tspan x="492" y="300" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">saumya-bhardwaj04</tspan>
-<tspan x="492" y="318" class="cc">. </tspan><tspan class="key">Portfolio</tspan><tspan class="cc">: .................. </tspan><tspan class="value">saumya-bhardwaj04.github.io</tspan>
-<tspan x="492" y="336" class="cc">. </tspan>
-<tspan x="492" y="354">- GitHub Stats —————————————————————————————</tspan>
-<tspan x="492" y="372" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc">: </tspan><tspan class="cc" id="repo_data_dots"> ....... </tspan><tspan class="value" id="repo_data">30</tspan><tspan> {</tspan><tspan class="key">Public</tspan><tspan>} | </tspan><tspan class="key">Stars</tspan><tspan class="cc">: </tspan><tspan class="cc" id="star_data_dots"> ................ </tspan><tspan class="value" id="star_data">5</tspan>
-<tspan x="492" y="390" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="cc">: </tspan><tspan class="cc" id="commit_data_dots"> ...................... </tspan><tspan class="value" id="commit_data">508</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan class="cc">: </tspan><tspan class="cc" id="follower_data_dots"> ............ </tspan><tspan class="value" id="follower_data">0</tspan>
-<tspan x="492" y="408" class="cc">. </tspan><tspan class="key">Top Langs</tspan><tspan class="cc">: ..... </tspan><tspan class="value">JS 61%</tspan><tspan>, </tspan><tspan class="value">TS 24%</tspan><tspan>, </tspan><tspan class="value">CSS 8%</tspan><tspan>, </tspan><tspan class="value">Py 5%</tspan>
-<tspan x="492" y="426" class="cc">. </tspan><tspan class="key">Since</tspan><tspan class="cc">: ........... </tspan><tspan class="value">Jul 2025</tspan><tspan> ( </tspan><tspan class="addColor" id="loc_add">507</tspan><tspan class="addColor">++</tspan><tspan>, </tspan><tspan class="delColor" id="loc_del">active</tspan><tspan class="delColor">-- </tspan><tspan>)</tspan>
+<!-- RIGHT COLUMN at x=490. SVG=1100px, available=600px, ~63 chars max per line -->
+<text x="490" y="30" fill="#c9d1d9">
+<tspan x="490" y="30">saumya@bhardwaj ————————————————————————————————————</tspan>
+<tspan x="490" y="48" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: ...................................................... </tspan><tspan class="value">Windows 11</tspan>
+<tspan x="490" y="66" class="cc">. </tspan><tspan class="key">Location</tspan><tspan class="cc">: ................................................ </tspan><tspan class="value">New Delhi, India</tspan>
+<tspan x="490" y="84" class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc">: .............................................. </tspan><tspan class="value">B.Tech CSE (AI+ML) 2026</tspan>
+<tspan x="490" y="102" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: .................................................. </tspan><tspan class="value">Full-Stack Dev (MERN)</tspan>
+<tspan x="490" y="120" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">: ................................................... </tspan><tspan class="value">VS Code, Postman</tspan>
+<tspan x="490" y="138" class="cc">. </tspan>
+<tspan x="490" y="156" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Programming</tspan><tspan class="cc">: .................................... </tspan><tspan class="value">JS, TS, Python, Java</tspan>
+<tspan x="490" y="174" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Database</tspan><tspan class="cc">: ........................................ </tspan><tspan class="value">MongoDB, MySQL, Firebase</tspan>
+<tspan x="490" y="192" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Markup</tspan><tspan class="cc">: .......................................... </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
+<tspan x="490" y="210" class="cc">. </tspan>
+<tspan x="490" y="228" class="cc">. </tspan><tspan class="key">Hobbies</tspan><tspan class="cc">.</tspan><tspan class="key">Software</tspan><tspan class="cc">: ....................................... </tspan><tspan class="value">GenAI, Open Source, UI/UX</tspan>
+<tspan x="490" y="246" class="cc">. </tspan>
+<tspan x="490" y="264">- Contact —————————————————————————————————————————</tspan>
+<tspan x="490" y="282" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc">.</tspan><tspan class="key">Personal</tspan><tspan class="cc">: ........................................... </tspan><tspan class="value">samisharma000@gmail.com</tspan>
+<tspan x="490" y="300" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: ................................................ </tspan><tspan class="value">saumya-bhardwaj04</tspan>
+<tspan x="490" y="318" class="cc">. </tspan><tspan class="key">Portfolio</tspan><tspan class="cc">: .......................................... </tspan><tspan class="value">saumya-bhardwaj04.github.io</tspan>
+<tspan x="490" y="336" class="cc">. </tspan>
+<tspan x="490" y="354">- GitHub Stats —————————————————————————————————————</tspan>
+<tspan x="490" y="372" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc">: </tspan><tspan class="cc" id="repo_data_dots">.......... </tspan><tspan class="value" id="repo_data">30</tspan><tspan> {</tspan><tspan class="key">Public</tspan><tspan>} | </tspan><tspan class="key">Stars</tspan><tspan class="cc">: </tspan><tspan class="cc" id="star_data_dots">............. </tspan><tspan class="value" id="star_data">5</tspan>
+<tspan x="490" y="390" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="cc">: </tspan><tspan class="cc" id="commit_data_dots">..................... </tspan><tspan class="value" id="commit_data">508</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan class="cc">: </tspan><tspan class="cc" id="follower_data_dots">.......... </tspan><tspan class="value" id="follower_data">0</tspan>
+<tspan x="490" y="408" class="cc">. </tspan><tspan class="key">Top Langs</tspan><tspan class="cc">: ............... </tspan><tspan class="value">JS 61%</tspan><tspan>, </tspan><tspan class="value">TS 24%</tspan><tspan>, </tspan><tspan class="value">CSS 8%</tspan><tspan>, </tspan><tspan class="value">Py 5%</tspan>
+<tspan x="490" y="426" class="cc">. </tspan><tspan class="key">Since</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">Jul 2025</tspan><tspan> ( </tspan><tspan class="addColor" id="loc_add">508</tspan><tspan class="addColor">++</tspan><tspan>, </tspan><tspan class="delColor" id="loc_del">active</tspan><tspan class="delColor">-- </tspan><tspan>)</tspan>
 </text>
 </svg>
