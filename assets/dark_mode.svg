@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1100px" height="545px" font-size="14px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1100px" height="545px" font-size="14.8px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -17,61 +17,60 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="1100px" height="545px" fill="#161b22" rx="15"/>
 
-<!-- LEFT COLUMN: Larger ASCII Face Art (x=40, font-size=17.5px) -->
-<text x="40" y="32" fill="#c9d1d9" font-size="17.5px">
-<tspan x="40" y="32">                                 </tspan>
-<tspan x="40" y="50">                                 </tspan>
-<tspan x="40" y="68">           =:;,,,,:-==o          </tspan>
-<tspan x="40" y="86">        -              ,=        </tspan>
-<tspan x="40" y="104">      =  ..............          </tspan>
-<tspan x="40" y="122">    =  ..       ....   ... o     </tspan>
-<tspan x="40" y="140">   = .. ........     ..  ...     </tspan>
-<tspan x="40" y="158">   ,.. .        ,,,,     . ,     </tspan>
-<tspan x="40" y="176">   = .  ,-~--=oB###M&amp;*: .. ~     </tspan>
-<tspan x="40" y="194">    ~..-BMM#@@@@@@@@%M8= .       </tspan>
-<tspan x="40" y="212">      ;W%%@@@@@@@@@@@#WB~..      </tspan>
-<tspan x="40" y="230">     ;:WBW#%@@@@@@W8o~-oB-       </tspan>
-<tspan x="40" y="248">     ++X:====B@@#=:-=++oB=:      </tspan>
-<tspan x="40" y="266">      +WX++-~=M@8~o+=~=MM*~      </tspan>
-<tspan x="40" y="284">         *8X8&amp;W@W8WMMMM#Mo~M     </tspan>
-<tspan x="40" y="302">      8W%@%@@##@#W@@@@@%B==M     </tspan>
-<tspan x="40" y="320">             M%@@BB%@@@#X:+      </tspan>
-<tspan x="40" y="338">       *W@@@#B*&amp;o:~o=8#Bo:M      </tspan>
-<tspan x="40" y="356">        *W%&amp;;:;;~-:;:=#B~~       </tspan>
-<tspan x="40" y="374">        o+#B&amp;8&amp;BMM&amp;BMM#X.M       </tspan>
-<tspan x="40" y="392">         ++M##%W~=M%WB*,.o       </tspan>
-<tspan x="40" y="410">        =; :o%%%BW##W-..~ -o     </tspan>
-<tspan x="40" y="428">     o,   ..,=XW%#8*; .~+,   ;+8 </tspan>
-<tspan x="40" y="446">  +:.  ....,~:..;;.  ;+o=....   ,</tspan>
-<tspan x="40" y="464">,    ..   . .+=---~~=+X*: .  ... </tspan>
-<tspan x="40" y="482">                                 </tspan>
-<tspan x="40" y="500">                                 </tspan>
+<!-- LEFT COLUMN: ASCII Face Art (x=35, font-size=18px) -->
+<text x="35" y="32" fill="#c9d1d9" font-size="18px">
+<tspan x="35" y="32">                                 </tspan>
+<tspan x="35" y="50">                                 </tspan>
+<tspan x="35" y="68">           =:;,,,,:-==o          </tspan>
+<tspan x="35" y="86">        -              ,=        </tspan>
+<tspan x="35" y="104">      =  ..............          </tspan>
+<tspan x="35" y="122">    =  ..       ....   ... o     </tspan>
+<tspan x="35" y="140">   = .. ........     ..  ...     </tspan>
+<tspan x="35" y="158">   ,.. .        ,,,,     . ,     </tspan>
+<tspan x="35" y="176">   = .  ,-~--=oB###M&amp;*: .. ~     </tspan>
+<tspan x="35" y="194">    ~..-BMM#@@@@@@@@%M8= .       </tspan>
+<tspan x="35" y="212">      ;W%%@@@@@@@@@@@#WB~..      </tspan>
+<tspan x="35" y="230">     ;:WBW#%@@@@@@W8o~-oB-       </tspan>
+<tspan x="35" y="248">     ++X:====B@@#=:-=++oB=:      </tspan>
+<tspan x="35" y="266">      +WX++-~=M@8~o+=~=MM*~      </tspan>
+<tspan x="35" y="284">         *8X8&amp;W@W8WMMMM#Mo~M     </tspan>
+<tspan x="35" y="302">      8W%@%@@##@#W@@@@@%B==M     </tspan>
+<tspan x="35" y="320">             M%@@BB%@@@#X:+      </tspan>
+<tspan x="35" y="338">       *W@@@#B*&amp;o:~o=8#Bo:M      </tspan>
+<tspan x="35" y="356">        *W%&amp;;:;;~-:;:=#B~~       </tspan>
+<tspan x="35" y="374">        o+#B&amp;8&amp;BMM&amp;BMM#X.M       </tspan>
+<tspan x="35" y="392">         ++M##%W~=M%WB*,.o       </tspan>
+<tspan x="35" y="410">        =; :o%%%BW##W-..~ -o     </tspan>
+<tspan x="35" y="428">     o,   ..,=XW%#8*; .~+,   ;+8 </tspan>
+<tspan x="35" y="446">  +:.  ....,~:..;;.  ;+o=....   ,</tspan>
+<tspan x="35" y="464">,    ..   . .+=---~~=+X*: .  ... </tspan>
+<tspan x="35" y="482">                                 </tspan>
+<tspan x="35" y="500">                                 </tspan>
 </text>
 
-<!-- RIGHT COLUMN: Centered and formatted info (x=440, font-size=14px) -->
-<text x="440" y="32" fill="#c9d1d9" font-size="14px">
-<tspan x="440" y="32">saumya@bhardwaj ————————————————————————————————————</tspan>
-<tspan x="440" y="50" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: ....................................... </tspan><tspan class="value">Windows 11</tspan>
-<tspan x="440" y="68" class="cc">. </tspan><tspan class="key">Location</tspan><tspan class="cc">: ................................. </tspan><tspan class="value">New Delhi, India</tspan>
-<tspan x="440" y="86" class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc">: ................................ </tspan><tspan class="value">B.Tech CSE (AI+ML) 2026</tspan>
-<tspan x="440" y="104" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: .................................... </tspan><tspan class="value">Full-Stack Dev (MERN)</tspan>
-<tspan x="440" y="122" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">: ..................................... </tspan><tspan class="value">VS Code, Postman</tspan>
-<tspan x="440" y="140" class="cc">. </tspan>
-<tspan x="440" y="158" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Programming</tspan><tspan class="cc">: .................... </tspan><tspan class="value">JS, TS, Python, Java</tspan>
-<tspan x="440" y="176" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Database</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">MongoDB, MySQL, Firebase</tspan>
-<tspan x="440" y="194" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Markup</tspan><tspan class="cc">: .......................... </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
-<tspan x="440" y="212" class="cc">. </tspan>
-<tspan x="440" y="230" class="cc">. </tspan><tspan class="key">Hobbies</tspan><tspan class="cc">.</tspan><tspan class="key">Software</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">GenAI, Open Source, UI/UX</tspan>
-<tspan x="440" y="248" class="cc">. </tspan>
-<tspan x="440" y="266">- Contact —————————————————————————————————————————</tspan>
-<tspan x="440" y="284" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc">.</tspan><tspan class="key">Personal</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">samisharma000@gmail.com</tspan>
-<tspan x="440" y="302" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: ................................ </tspan><tspan class="value">saumya-bhardwaj04</tspan>
-<tspan x="440" y="320" class="cc">. </tspan><tspan class="key">Portfolio</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">saumya-bhardwaj04.github.io</tspan>
-<tspan x="440" y="338" class="cc">. </tspan>
-<tspan x="440" y="356">- GitHub Stats —————————————————————————————————————</tspan>
-<tspan x="440" y="374" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc">: </tspan><tspan class="cc" id="repo_data_dots"> ....... </tspan><tspan class="value" id="repo_data">30</tspan><tspan> {</tspan><tspan class="key">Public</tspan><tspan>} | </tspan><tspan class="key">Stars</tspan><tspan class="cc">: </tspan><tspan class="cc" id="star_data_dots"> ................ </tspan><tspan class="value" id="star_data">5</tspan>
-<tspan x="440" y="392" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="cc">: </tspan><tspan class="cc" id="commit_data_dots"> ...................... </tspan><tspan class="value" id="commit_data">521</tspan><tspan> | </tspan><tspan class="key">Followers</tspan><tspan class="cc">: </tspan><tspan class="cc" id="follower_data_dots"> ............ </tspan><tspan class="value" id="follower_data">0</tspan>
-<tspan x="440" y="410" class="cc">. </tspan><tspan class="key">Top Langs</tspan><tspan class="cc">: ............... </tspan><tspan class="value">JS 61%</tspan><tspan>, </tspan><tspan class="value">TS 24%</tspan><tspan>, </tspan><tspan class="value">CSS 8%</tspan><tspan>, </tspan><tspan class="value">Py 5%</tspan>
-<tspan x="440" y="428" class="cc">. </tspan><tspan class="key">Since</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">Jul 2025</tspan><tspan> ( </tspan><tspan class="addColor" id="loc_add">520</tspan><tspan class="addColor">++</tspan><tspan>, </tspan><tspan class="delColor" id="loc_del">active</tspan><tspan class="delColor">-- </tspan><tspan>)</tspan>
+<!-- RIGHT COLUMN: Fully Right-Aligned Profile Text (x=500, font-size=14.8px) -->
+<text x="500" y="32" fill="#c9d1d9" font-size="14.8px">
+<tspan x="500" y="32">saumya@bhardwaj --------------------------------------------</tspan>
+<tspan x="500" y="50" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: ........................................... </tspan><tspan class="value">Windows 11</tspan>
+<tspan x="500" y="68" class="cc">. </tspan><tspan class="key">Location</tspan><tspan class="cc">: ............................... </tspan><tspan class="value">New Delhi, India</tspan>
+<tspan x="500" y="86" class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">B.Tech CSE (AI+ML) 2026</tspan>
+<tspan x="500" y="104" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: .............................. </tspan><tspan class="value">Full-Stack Dev (MERN)</tspan>
+<tspan x="500" y="122" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">: .................................... </tspan><tspan class="value">VS Code, Postman</tspan>
+<tspan x="500" y="140" class="cc">. </tspan>
+<tspan x="500" y="158" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Programming</tspan><tspan class="cc">: .............. </tspan><tspan class="value">JS, TS, Python, Java</tspan>
+<tspan x="500" y="176" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Database</tspan><tspan class="cc">: ............. </tspan><tspan class="value">MongoDB, MySQL, Firebase</tspan>
+<tspan x="500" y="194" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Markup</tspan><tspan class="cc">: ................... </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
+<tspan x="500" y="212" class="cc">. </tspan>
+<tspan x="500" y="230" class="cc">. </tspan><tspan class="key">Hobbies</tspan><tspan class="cc">.</tspan><tspan class="key">Software</tspan><tspan class="cc">: ............... </tspan><tspan class="value">GenAI, Open Source, UI/UX</tspan>
+<tspan x="500" y="248" class="cc">. </tspan>
+<tspan x="500" y="266">- Contact ----------------------------------------------------</tspan>
+<tspan x="500" y="284" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc">.</tspan><tspan class="key">Personal</tspan><tspan class="cc">: ................. </tspan><tspan class="value">samisharma000@gmail.com</tspan>
+<tspan x="500" y="302" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: ............................. </tspan><tspan class="value">saumya-bhardwaj04</tspan>
+<tspan x="500" y="320" class="cc">. </tspan><tspan class="key">Portfolio</tspan><tspan class="cc">: ................... </tspan><tspan class="value">saumya-bhardwaj04.github.io</tspan>
+<tspan x="500" y="338" class="cc">. </tspan>
+<tspan x="500" y="356">- GitHub Stats -----------------------------------------------</tspan>
+<tspan x="500" y="374" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc">: .... </tspan><tspan class="value" id="repo_data">30</tspan><tspan> {</tspan><tspan class="key">Public</tspan><tspan>} | </tspan><tspan class="key">Stars</tspan><tspan class="cc">: </tspan><tspan class="cc" id="star_data_dots">....................... </tspan><tspan class="value" id="star_data">5</tspan>
+<tspan x="500" y="392" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="cc">: </tspan><tspan class="cc" id="commit_data_dots">................ </tspan><tspan class="value" id="commit_data">520</tspan><tspan> | </tspan><tspan class="key">Public Repos</tspan><tspan class="cc">: </tspan><tspan class="cc" id="follower_data_dots">........... </tspan><tspan class="value" id="follower_data">30</tspan>
+<tspan x="500" y="410" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan class="cc">:. </tspan><tspan class="value">124,580</tspan><tspan> ( </tspan><tspan class="addColor" id="loc_add">142,890</tspan><tspan class="addColor">++</tspan><tspan>, </tspan><tspan class="delColor" id="loc_del">18,310</tspan><tspan class="delColor">--</tspan><tspan> )</tspan>
 </text>
 </svg>
