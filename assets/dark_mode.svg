@@ -18,32 +18,30 @@ text, tspan {white-space: pre;}
 <rect width="1100px" height="575px" fill="#161b22" rx="15"/>
 
 <!-- LEFT COLUMN: ASCII Face Art (x=30, font-size=21.5px) -->
-<text x="30" y="38" fill="#c9d1d9" font-size="21.5px">
-<tspan x="30" y="38">                                 </tspan>
-<tspan x="30" y="60.5">                                 </tspan>
-<tspan x="30" y="83">           =:;,,,,:-==o          </tspan>
-<tspan x="30" y="105.5">        -              ,=        </tspan>
-<tspan x="30" y="128">      =  ..............          </tspan>
-<tspan x="30" y="150.5">    =  ..       ....   ... o     </tspan>
-<tspan x="30" y="173">   = .. ........     ..  ...     </tspan>
-<tspan x="30" y="195.5">   ,.. .        ,,,,     . ,     </tspan>
-<tspan x="30" y="218">   = .  ,-~--=oB###M&amp;*: .. ~     </tspan>
-<tspan x="30" y="240.5">    ~..-BMM#@@@@@@@@%M8= .       </tspan>
-<tspan x="30" y="263">      ;W%%@@@@@@@@@@@#WB~..      </tspan>
-<tspan x="30" y="285.5">     ;:WBW#%@@@@@@W8o~-oB-       </tspan>
-<tspan x="30" y="308">     ++X:====B@@#=:-=++oB=:      </tspan>
-<tspan x="30" y="330.5">      +WX++-~=M@8~o+=~=MM*~      </tspan>
-<tspan x="30" y="353">      *8X8&amp;W@W8WMMMM#Mo~M        </tspan>
-<tspan x="30" y="375.5">      8W%@%@@##@#W@@@@@%B==M     </tspan>
-<tspan x="30" y="398">       M%@@BB%@@@#X:+            </tspan>
-<tspan x="30" y="420.5">       *W@@@#B*&amp;o:~o=8#Bo:M      </tspan>
-<tspan x="30" y="443">        *W%&amp;;:;;~-:;:=#B~~       </tspan>
-<tspan x="30" y="465.5">        o+#B&amp;8&amp;BMM&amp;BMM#X.M       </tspan>
-<tspan x="30" y="488">         ++M##%W~=M%WB*,.o       </tspan>
-<tspan x="30" y="510.5">        =; :o%%%BW##W-..~ -o     </tspan>
-<tspan x="30" y="533">     o,   ..,=XW%#8*; .~+,   ;+8 </tspan>
-<tspan x="30" y="555.5">  +:.  ....,~:..;;.  ;+o=....   ,</tspan>
-<tspan x="30" y="578">,    ..   . .+=---~~=+X*: .  ... </tspan>
+<text x="30" y="40" fill="#c9d1d9" font-size="21.5px">
+<tspan x="30" y="40">           =:;,,,,:-==o          </tspan>
+<tspan x="30" y="62.5">        -              ,=        </tspan>
+<tspan x="30" y="85">      =  ..............          </tspan>
+<tspan x="30" y="107.5">    =  ..       ....   ... o     </tspan>
+<tspan x="30" y="130">   = .. ........     ..  ...     </tspan>
+<tspan x="30" y="152.5">   ,.. .        ,,,,     . ,     </tspan>
+<tspan x="30" y="175">   = .  ,-~--=oB###M&amp;*: .. ~     </tspan>
+<tspan x="30" y="197.5">    ~..-BMM#@@@@@@@@%M8= .       </tspan>
+<tspan x="30" y="220">      ;W%%@@@@@@@@@@@#WB~..      </tspan>
+<tspan x="30" y="242.5">     ;:WBW#%@@@@@@W8o~-oB-       </tspan>
+<tspan x="30" y="265">     ++X:====B@@#=:-=++oB=:      </tspan>
+<tspan x="30" y="287.5">      +WX++-~=M@8~o+=~=MM*~      </tspan>
+<tspan x="30" y="310">      *8X8&amp;W@W8WMMMM#Mo~M~+*     </tspan>
+<tspan x="30" y="332.5">      8W%@%@@##@#W@@@@@%B==M     </tspan>
+<tspan x="30" y="355">       M%@@BB%@@@#X:+~=oB:M      </tspan>
+<tspan x="30" y="377.5">       *W@@@#B*&amp;o:~o=8#Bo:M      </tspan>
+<tspan x="30" y="400">        *W%&amp;;:;;~-:;:=#B~~       </tspan>
+<tspan x="30" y="422.5">        o+#B&amp;8&amp;BMM&amp;BMM#X.M       </tspan>
+<tspan x="30" y="445">         ++M##%W~=M%WB*,.o       </tspan>
+<tspan x="30" y="467.5">        =; :o%%%BW##W-..~ -o     </tspan>
+<tspan x="30" y="490">     o,   ..,=XW%#8*; .~+,   ;+8 </tspan>
+<tspan x="30" y="512.5">  +:.  ....,~:..;;.  ;+o=....   ,</tspan>
+<tspan x="30" y="535">,    ..   . .+=---~~=+X*: .  ... </tspan>
 </text>
 
 <!-- RIGHT COLUMN: Pixel-Perfect Right-Aligned Profile Info (x=460 to x=1055, font-size=17.5px) -->
@@ -68,7 +66,7 @@ text, tspan {white-space: pre;}
 <tspan x="460" y="431" class="cc">. </tspan>
 <tspan x="460" y="454">- GitHub Stats -------------------------------------------</tspan>
 <tspan x="460" y="477" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc">: </tspan><tspan class="value" id="repo_data">30</tspan><tspan> {</tspan><tspan class="key">Public</tspan><tspan>} | </tspan><tspan class="key">Stars</tspan><tspan class="cc">: </tspan><tspan class="cc" id="star_data_dots"> ..................... </tspan><tspan x="1055" text-anchor="end" class="value" id="star_data">5</tspan>
-<tspan x="460" y="500" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="cc">: </tspan><tspan class="value" id="commit_data">524</tspan><tspan> | </tspan><tspan class="key">Public Repos</tspan><tspan class="cc">: </tspan><tspan class="cc" id="follower_data_dots"> .................. </tspan><tspan x="1055" text-anchor="end" class="value" id="follower_data">30</tspan>
+<tspan x="460" y="500" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="cc">: </tspan><tspan class="value" id="commit_data">526</tspan><tspan> | </tspan><tspan class="key">Public Repos</tspan><tspan class="cc">: </tspan><tspan class="cc" id="follower_data_dots"> .................. </tspan><tspan x="1055" text-anchor="end" class="value" id="follower_data">30</tspan>
 <tspan x="460" y="523" class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan class="cc">: ..... </tspan><tspan x="1055" text-anchor="end"><tspan class="value">124,580</tspan><tspan> ( </tspan><tspan class="addColor" id="loc_add">142,890</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor" id="loc_del">18,310</tspan><tspan class="delColor">--</tspan><tspan> )</tspan></tspan>
 </text>
 </svg>
