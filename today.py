@@ -156,9 +156,9 @@ def svg_overwrite(filename, commit_data, star_data, repo_data, follower_data):
 
     # length args control dot-padding to keep right-side alignment
     justify_format(root, 'repo_data',     repo_data,     9)
-    justify_format(root, 'star_data',     star_data,     25)
+    justify_format(root, 'star_data',     star_data,     28)
     justify_format(root, 'commit_data',   commit_data,   25)
-    justify_format(root, 'follower_data', follower_data, 24)
+    justify_format(root, 'follower_data', follower_data, 27)
 
     tree.write(filename, encoding='utf-8', xml_declaration=True)
     print(f"Updated {filename}: repos={repo_data}, stars={star_data}, commits={commit_data}, followers={follower_data}")
