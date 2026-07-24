@@ -54,14 +54,29 @@ def graph_repos_stars(count_type, owner_affiliation, cursor=None):
     }'''
     variables = {'owner_affiliation': owner_affiliation, 'login': USER_NAME, 'cursor': cursor}
     request = simple_request(graph_repos_stars.__name__, query, variables)
-    data = request.json()['data']['user']['repositories']
+    res_json = request.json()
+
+    user_data = res_json.get('data', {}).get('user') if isinstance(res_json, dict) and res_json.get('data') else None
+    if not user_data:
+        return 0
+
+    data = user_data.get('repositories') or {}
 
     if count_type == 'repos':
-        return data['totalCount']
+        return data.get('totalCount', 0)
     elif count_type == 'stars':
-        stars = sum(e['node']['stargazers']['totalCount'] for e in data['edges'])
-        if data['pageInfo']['hasNextPage']:
-            stars += graph_repos_stars('stars', owner_affiliation, data['pageInfo']['endCursor'])
+        stars = 0
+        edges = data.get('edges') or []
+        for e in edges:
+            if e and isinstance(e, dict):
+                node = e.get('node')
+                if node and isinstance(node, dict):
+                    stargazers = node.get('stargazers')
+                    if stargazers and isinstance(stargazers, dict):
+                        stars += stargazers.get('totalCount', 0)
+        page_info = data.get('pageInfo') or {}
+        if page_info.get('hasNextPage') and page_info.get('endCursor'):
+            stars += graph_repos_stars('stars', owner_affiliation, page_info['endCursor'])
         return stars
 
 
@@ -70,8 +85,6 @@ def graph_commits(login):
     Returns total all-time commit count using contributionsCollection across all years.
     """
     QUERY_COUNT['graph_commits'] += 1
-    # GitHub limits contributionsCollection to 1 year at a time.
-    # We sum from account creation year to current year.
     import datetime
     current_year = datetime.datetime.utcnow().year
 
@@ -83,8 +96,12 @@ def graph_commits(login):
         }
     }'''
     req = simple_request('user_created', user_query, {'login': login})
-    created_at = req.json()['data']['user']['createdAt']
-    start_year = int(created_at[:4])
+    res_json = req.json()
+    user_data = res_json.get('data', {}).get('user') if isinstance(res_json, dict) and res_json.get('data') else None
+    if not user_data or not user_data.get('createdAt'):
+        start_year = 2024
+    else:
+        start_year = int(user_data['createdAt'][:4])
 
     total = 0
     for year in range(start_year, current_year + 1):
@@ -102,7 +119,12 @@ def graph_commits(login):
         }'''
         variables = {'start_date': start, 'end_date': end, 'login': login}
         req = simple_request('graph_commits', query, variables)
-        total += int(req.json()['data']['user']['contributionsCollection']['contributionCalendar']['totalContributions'])
+        r_json = req.json()
+        u_data = r_json.get('data', {}).get('user') if isinstance(r_json, dict) and r_json.get('data') else None
+        if u_data:
+            contrib_coll = u_data.get('contributionsCollection') or {}
+            calendar = contrib_coll.get('contributionCalendar') or {}
+            total += int(calendar.get('totalContributions', 0))
 
     return total
 
@@ -118,7 +140,11 @@ def follower_getter(username):
         }
     }'''
     request = simple_request(follower_getter.__name__, query, {'login': username})
-    return int(request.json()['data']['user']['followers']['totalCount'])
+    res_json = request.json()
+    user_data = res_json.get('data', {}).get('user') if isinstance(res_json, dict) and res_json.get('data') else None
+    if user_data and user_data.get('followers'):
+        return int(user_data['followers'].get('totalCount', 0))
+    return 0
 
 
 def justify_format(root, element_id, new_text, length=0):
